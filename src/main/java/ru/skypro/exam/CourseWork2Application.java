@@ -1,4 +1,4 @@
-package ru.pro.sky.java.courseWork2;
+package ru.skypro.exam;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class CourseWork2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(CourseWork2Application.class, args);
 	}
-
 }
